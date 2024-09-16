@@ -8,6 +8,13 @@
       "when": 1726286857745,
       "tag": "0000_right_rockslide",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1726435659613,
+      "tag": "0001_clammy_firestar",
+      "breakpoints": true
     }
   ]
 }
